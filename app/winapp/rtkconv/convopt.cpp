@@ -4,7 +4,7 @@
 
 #include "convmain.h"
 #include "convopt.h"
-#include "codeopt.h"//alonso prueba svn
+#include "codeopt.h"
 #include "freqdlg.h"
 #include "glofcndlg.h"
 //---------------------------------------------------------------------------
